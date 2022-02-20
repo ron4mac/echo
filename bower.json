@@ -1,9 +1,10 @@
 {
   "name": "echojs",
-  "version": "1.7.3",
-  "homepage": "https://github.com/toddmotto/echo",
+  "version": "1.7.4",
+  "homepage": "https://github.com/ron4mac/echo",
   "authors": [
-    "@toddmotto"
+    "@toddmotto",
+    "@ron4mac"
   ],
   "description": "Lazy-loading with data-* attributes, offset and throttle options",
   "main": "src/echo.js",
